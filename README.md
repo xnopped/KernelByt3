@@ -40,8 +40,6 @@
   <img src="https://ghchart.rshah.org/KernelByt3" alt="KernelByt3's Github Chart" />
 </p>
 
-> *Чтобы график выше заполнился зелеными квадратами, нужно делать коммиты в публичные репозитории.*
-
 ---
 
 
