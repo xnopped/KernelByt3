@@ -14,22 +14,15 @@
 
 ### 🧠 Обо мне
 
-- 🔭 **Сейчас работаю над:** высоконагруженными backend-системами и микросервисами на Java.
-- 🌱 **Изучаю:** Spring Cloud, оптимизацию JVM и паттерны проектирования.
-- 💬 **Спроси меня о:** Java Core, многопоточности, алгоритмах и чистом коде (Clean Code).
-- ⚡ **Фан-факт:** Я превращаю кофеин в чистый байт-код ☕ ➡️ 💻.
-
+- 🔭 **Сейчас работаю над:** Клиентом на майнкрафт NeforClient.
 ---
 
 ### 🛠️ Мой стек технологий
 
 | Категория | Технологии |
 |-----------|------------|
-| **Языки** | Java (8–21), SQL, Bash |
-| **Фреймворки** | Spring Boot, Spring Security, Hibernate, JUnit, Mockito |
-| **Базы данных** | PostgreSQL, Redis, MongoDB |
-| **Инструменты** | Git, Maven, Gradle, Docker, IntelliJ IDEA, Linux |
-| **Архитектура** | REST API, Microservices, Clean Architecture, SOLID |
+| **Языки** | Java (8–21)|
+| **Инструменты** | Git, Maven, Gradle, IntelliJ IDEA, Linux |
 
 ---
 
