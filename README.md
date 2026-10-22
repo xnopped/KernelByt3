@@ -1,6 +1,6 @@
-# 💫 Привет, я KernelByt3!
+# Привет, я @xnopped
 
-> *Java Developer | Backend Enthusiast | Code Architect*
+Я Java программист. Сейчас работаю над клиентом на майнкрафт NeforClient.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -10,42 +10,17 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
----
+### Стек технологий
+Java (8-21), Spring Boot, Maven, PostgreSQL, Docker, Git, Linux
 
-### 🧠 Обо мне
-
-- 🔭 **Сейчас работаю над:** Клиентом на майнкрафт NeforClient.
----
-
-### 🛠️ Мой стек технологий
-
-| Категория | Технологии |
-|-----------|------------|
-| **Языки** | Java (8–21)|
-| **Инструменты** | Git, Maven, Gradle, IntelliJ IDEA, Linux |
-
----
-
-### 📊 Активность на GitHub
-
-<!-- Встроенный график коммитов от GitHub (всегда работает) -->
+### Активность на GitHub
 <p align="center">
-  <img src="https://ghchart.rshah.org/KernelByt3" alt="KernelByt3's Github Chart" />
+  <img src="https://ghchart.rshah.org/xnopped" />
 </p>
 
----
-
-
-
-### 📬 Связаться со мной
-
+### Связаться со мной
 <div align="center">
-  <a href="https://t.me/Java_1v" target="_blank">
+  <a href="https://t.me/xnopped" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-</div>
-
-<br>
-<div align="center">
-  <em>"Сначала заставь это работать, потом заставь это работать быстро."</em>
 </div>
